@@ -1,0 +1,1 @@
+The code is used to produce the results of "Development and External Validation of a Transformer-Based Model for Real-Time Prediction of Intraoperative Hypotension Using Dynamic Time-Series Vital Signs", You can contact sq_zhu_anesth@163.com when you have any questions
